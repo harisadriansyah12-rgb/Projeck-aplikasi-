@@ -39,16 +39,23 @@ Proyek ini adalah aplikasi prototype pemesanan makanan berbasis Android yang dik
   - `androidx.cardview:cardview`: Untuk desain struk dan kontainer menu.
 
 ## 📸 Preview Tampilan
- | TAMPILAN AWAL | LOGIN| KATALOG MENU | | Checkout Pesanan | Struk Pembayaran |
-|---|---|---|
-| ![Home](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b2fcb788-f9fd-4e53-94cf-fc280b395d69" />
-) | ![<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/e75d0e23-51be-46c3-8e67-2f5cdf7c6876" />
-) | ![Receipt](<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/b1319948-5e8d-4c50-a769-4f7e8c6db6bb" />
-) |
+TAMPILAN AWAL LOGIN
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-29 at 15 57 58" src="https://github.com/user-attachments/assets/4c4fcbf7-20f0-44a7-a601-929ee4bc84f5" />
+KATALOG MENU 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0017b0ab-ab5e-4322-b1a0-d873ce64af2c" />
+CHECK OUT 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/55102213-8aa5-4529-b9b8-bcd942144a61" />
+STRUCK PEMBAYARAN
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a307a5f7-0fc8-4c73-90a9-98283030c27a" />
+
+
+
+
+
 
 ---
 
 ## ⚙️ Cara Menjalankan (Installation)
 1. Pastikan Anda memiliki **Android Studio** versi terbaru (Hedgehog/Iguana ke atas).
-2. Clone repository ini:
+
    
