@@ -39,10 +39,11 @@ Proyek ini adalah aplikasi prototype pemesanan makanan berbasis Android yang dik
   - `androidx.cardview:cardview`: Untuk desain struk dan kontainer menu.
 
 ## 📸 Preview Tampilan
-| Katalog Menu | Checkout Pesanan | Struk Pembayaran |
+ | TAMPILAN AWAL | LOGIN| KATALOG MENU | | Checkout Pesanan | Struk Pembayaran |
 |---|---|---|
 | ![Home](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b2fcb788-f9fd-4e53-94cf-fc280b395d69" />
-) | ![Checkout](https://via.placeholder.com/200x400?text=Checkout+Screen) | ![Receipt](<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/b1319948-5e8d-4c50-a769-4f7e8c6db6bb" />
+) | ![<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/e75d0e23-51be-46c3-8e67-2f5cdf7c6876" />
+) | ![Receipt](<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/b1319948-5e8d-4c50-a769-4f7e8c6db6bb" />
 ) |
 
 ---
