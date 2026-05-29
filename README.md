@@ -11,7 +11,7 @@ Proyek ini adalah aplikasi prototype pemesanan makanan berbasis Android yang dik
 | **NIM** | [312410286] |
 | **Kelas** | [12.4.1D] |
 | **Mata Kuliah** | [ Pemrograman Mobile] |
-| **Dosen Pengampu** | [ISI NAMA DOSEN DI SINI] |
+| **Dosen Pengampu** | [DONY MAULANA S.KOM] |
 
 ---
 
